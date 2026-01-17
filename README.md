@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=rohitsangwan01&project=uni_control_hub&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # UniControlHub
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/rohitsangwan01)
